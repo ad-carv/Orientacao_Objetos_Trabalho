@@ -7,3 +7,5 @@ http://www.webdevelopmenthelp.net/2016/10/asp-net-mvc-shopping-cart-part1.html
 
 exemplo professor consulta e add banco
 https://docs.microsoft.com/pt-br/ef/ef6/modeling/designer/workflows/database-first
+
+https://www.youtube.com/watch?v=TMDHfcim87k&list=PLxNM4ef1BpxhqxiU8TRVtNlLgUeYolLdm
