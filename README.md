@@ -9,3 +9,7 @@ exemplo professor consulta e add banco
 https://docs.microsoft.com/pt-br/ef/ef6/modeling/designer/workflows/database-first
 
 https://www.youtube.com/watch?v=TMDHfcim87k&list=PLxNM4ef1BpxhqxiU8TRVtNlLgUeYolLdm
+
+# Login MVC
+
+https://drive.google.com/open?id=1NMvO0zxEYuupbf9LcFjPuG8kChd-x-zO
